@@ -12,4 +12,4 @@ print(bumpy_a0T.shape)
 bumpy_a1 = np.expand_dims(bumpy, axis=1) #shape is now (5,5)
 print(bumpy_a0T.shape == bumpy_a1.shape)
 
-exikt
+exit
